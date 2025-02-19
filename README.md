@@ -28,5 +28,6 @@ You have two options to obtain the trained model: either retrieve it directly fr
 While mPDE-Net demonstrates accurate fitting of data and effective recovery of terms, it occasionally falls short in simplifying the learned PDE, posing challenges in interpretation.
 ## References
 
+- [CBYC23] Chen, S., Brunel, N. J.-B., Yang, X., & Cui, X. (2023). "Learning Interactions in Reaction Diffusion Equations by Neural Networks." Journal of Computational Physics, 485, 112345.
 - [LLD19] Long, Z., Lu, Y., & Dong, B. (2019). "PDE-Net 2.0: Learning PDEs from data with a numeric-symbolic hybrid deep network." *Journal of Computational Physics*, 108925.
 - [RABK19] S. Rudy, A. Alla, S. L. Brunton, J. N. Kutz, "Data-driven identification of parametric partial differential equations," *SIAM Journal on Applied Dynamical Systems*, vol. 18, no. 2, pp. 643-660, 2019. 
